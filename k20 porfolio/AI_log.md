@@ -4,8 +4,8 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ Hoàng Xuân Tùng ]
-- Mã sinh viên: [2071020194  ]
+- Họ và tên: [ Ngọ Minh Khôi ]
+- Mã sinh viên: [2071020102  ]
 – Lớp: [CNTT20-02  ]    
 - Ngày thực hiện: [ 30/10/2026 ]
 - Link repository: [ https://hoangxuantung222.github.io/k20_portolio_CNTT20-02/ ]

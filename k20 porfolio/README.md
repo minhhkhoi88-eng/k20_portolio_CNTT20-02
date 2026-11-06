@@ -2,7 +2,7 @@
 ## Sản phẩm này là gì?
 Website giới thiệu bản thân và các dự án đã làm
 ## Demo
- https://hoangxuantung222.github.io/Baitapbuoi7/
+ https://minhhkhoi88-eng.github.io/k20-porfolio/
 ## Tính năng
 xóa gạch chân ở menu, ở mục kĩ năng tạo các khung để chứ chứ k có ul dấu - nữa, dự án thay băng link git thật của cá nhân và ấn mở ra đc
 ## Cách mở
